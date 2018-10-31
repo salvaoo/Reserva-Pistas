@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socios>
+	<socio>
+		<nombre></nombre>
+		<apellidos></apellidos>
+		<dni></dni>
+		<numSocio></numSocio>
+		<reservaTenis>
+			<fecha></fecha>
+		</reservaTenis>
+		<reservaPadel>
+			<fecha></fecha>
+		</reservaPadel>
+	</socio>
+	<socio>
+		<nombre></nombre>
+		<apellidos></apellidos>
+		<dni></dni>
+		<numSocio></numSocio>
+		<reservaTenis>
+			<fecha></fecha>
+		</reservaTenis>
+		<reservaPadel>
+			<fecha></fecha>
+		</reservaPadel>
+	</socio>
+	
+</socios>
